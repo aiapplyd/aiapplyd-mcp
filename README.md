@@ -405,9 +405,9 @@ sends the main loop as its MCP `instructions`.
 
 | Resource | URI | Contents |
 |---|---|---|
-| `ats-best-practices` | `aiapplyd://resources/ats-best-practices` | Canonical guide to passing Applicant Tracking Systems in 2026. Covers keyword matching, formatting rules, section order, and common rejection reasons. |
-| `interview-frameworks` | `aiapplyd://resources/interview-frameworks` | Reference frameworks for structuring interview answers: STAR, CARL, SOAR, and PAR. |
-| `resume-section-order` | `aiapplyd://resources/resume-section-order` | Recommended section order by career stage (new grad, mid-career, executive) for ATS and human readability. |
+| `ats-best-practices` | `getmattered://resources/ats-best-practices` | Canonical guide to passing Applicant Tracking Systems in 2026. Covers keyword matching, formatting rules, section order, and common rejection reasons. |
+| `interview-frameworks` | `getmattered://resources/interview-frameworks` | Reference frameworks for structuring interview answers: STAR, CARL, SOAR, and PAR. |
+| `resume-section-order` | `getmattered://resources/resume-section-order` | Recommended section order by career stage (new grad, mid-career, executive) for ATS and human readability. |
 
 ## Authentication
 
@@ -461,11 +461,11 @@ nothing else. The [privacy policy](https://getmattered.com/legal/privacy) and
 - Website: [getmattered.com](https://getmattered.com)
 - Pricing: [getmattered.com/pricing](https://getmattered.com/pricing)
 - Blog: [getmattered.com/blog](https://getmattered.com/blog)
-- X: [GetMattered](https://x.com/aiapplydHQ)
-- LinkedIn: [GetMattered](https://www.linkedin.com/company/aiapplyd/)
-- YouTube: [GetMattered](https://www.youtube.com/@aiapplyd)
-- TikTok: [GetMattered](https://www.tiktok.com/@aiapplydhq)
-- Instagram: [GetMattered](https://www.instagram.com/aiapplyd)
+- X: [GetMattered](https://x.com/getmattered)
+- LinkedIn: [GetMattered](https://www.linkedin.com/company/getmattered)
+- YouTube: [GetMattered](https://www.youtube.com/@getmattered)
+- TikTok: [GetMattered](https://www.tiktok.com/@getmattered)
+- Instagram: [GetMattered](https://www.instagram.com/getmattered)
 - Discord: [join the community](https://discord.gg/ZXBsKvuvCD)
 
 ## About this repository

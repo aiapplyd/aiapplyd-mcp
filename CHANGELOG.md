@@ -47,7 +47,7 @@ Changed behavior:
 
 Skills:
 
-- `using-ai-applyd` maps each request to its tools and order, lists the actions that need the user's yes, and ends each result with one next step offered to the user, with no prices or billing links.
+- The routing skill (`using-getmattered` today) maps each request to its tools and order, lists the actions that need the user's yes, and ends each result with one next step offered to the user, with no prices or billing links.
 - `handle-recruiter-replies`, `follow-up-on-applications` and `manage-saved-searches` are new.
 - The apply, setup, tailoring, cover letter, translation, resume document, matching, tracking and interview skills describe the new resume sources and point to the new workflows. `apply-to-a-job` covers Auto Apply settings.
 

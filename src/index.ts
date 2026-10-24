@@ -35,8 +35,7 @@ const DEFAULT_ENDPOINT = 'https://mcp.getmattered.com/mcp';
 const VERSION = '1.10.1';
 
 // AIAPPLYD_MCP_URL is the name from before the rename, still read so an existing
-// setup keeps its endpoint. Set either one to https://mcp.aiapplyd.com/mcp to
-// reach the old host during the overlap.
+// setup keeps its endpoint. Set either one to point the bridge at another server.
 const endpoint =
   process.env.GETMATTERED_MCP_URL?.trim() || process.env.AIAPPLYD_MCP_URL?.trim() || DEFAULT_ENDPOINT;
 
